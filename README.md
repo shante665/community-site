@@ -5,6 +5,7 @@ Ensure your have `node >= 4` on your system.
 
     git clone <repo>
     npm install -g gulp # if you haven't installed gulp
+    npm install -g browser-sync # if you haven't installed browser-sync
     npm install
 
 Start up a local server 
