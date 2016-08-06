@@ -8,4 +8,4 @@ materialize
 *zedstate*
 *.sqlite
 .~lock*
-
+node_modules/
