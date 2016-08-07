@@ -1,7 +1,9 @@
 /* body / generic */
-
+a{
+	color: white;
+}
 .greenText{
-	color: #4BE297;
+	color: #4BF991;
 }
 
 .siteBtn{
@@ -9,7 +11,7 @@
 	color: white;
 	background-color: transparent;
 	padding: 10px 10px;
-	border: 1px solid #73eaaf;
+	border: 1px solid #4BF991;
 	border-radius: 10px;
 }
 
@@ -28,12 +30,33 @@
 	margin-top: 25vh;
 	background-color: transparent
 }
+.jumbotron h1{
+	letter-spacing: 25px;
+}
 
 /* end landing */
 
 /* navbar */
 ul.nav{
 	padding-top: 30px;
+}
+.name{
+	padding-top: 10px;
+}
+.inline{
+	display: inline-block;
+}
+.inline p{
+	color: white
+}
+.navbar-default .navbar-toggle .icon-bar{
+	margin: 10px 0;
+	width: 30px;
+	height: 3px;
+}
+.navbar-toggle{
+	margin-top: 20px;
+	border: 0;
 }
 .navbar-default .navbar-nav>li>a {
     color: white;

@@ -3,18 +3,20 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
-<rect x="287.5" y="168.5" fill="none" stroke="#4BE297" stroke-miterlimit="10" width="262" height="262"/>
 <g>
-	<rect x="333.5" y="215.5" fill="none" stroke="#4BE297" stroke-miterlimit="10" width="5" height="175"/>
-	
-		<rect x="358.728" y="204.133" transform="matrix(0.7071 -0.7072 0.7072 0.7071 -64.7669 326.1102)" fill="none" stroke="#4BE297" stroke-miterlimit="10" width="5" height="74.19"/>
-	
-		<rect x="358.728" y="253.134" transform="matrix(-0.7072 -0.707 0.707 -0.7072 411.4959 750.8719)" fill="none" stroke="#4BE297" stroke-miterlimit="10" width="5" height="74.19"/>
-</g>
-<g>
-	<rect x="415.5" y="213.5" fill="none" stroke="#4BE297" stroke-miterlimit="10" width="5" height="175"/>
-	<rect x="497.5" y="215.5" fill="none" stroke="#4BE297" stroke-miterlimit="10" width="5" height="175"/>
-	
-		<rect x="456.5" y="215.5" transform="matrix(-0.7592 0.6508 -0.6508 -0.7592 1004.6851 234.3131)" fill="none" stroke="#4BE297" stroke-miterlimit="10" width="5" height="175"/>
+	<rect x="289.5" y="168.5" fill="none" stroke="#4BF991" stroke-miterlimit="10" width="262" height="262"/>
+	<g>
+		<rect x="419.5" y="215.5" fill="none" stroke="#4BF991" stroke-miterlimit="10" width="16" height="175"/>
+		<rect x="504.5" y="215.5" fill="none" stroke="#4BF991" stroke-miterlimit="10" width="16" height="175"/>
+		
+			<rect x="460.5" y="213.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -75.6237 419.4171)" fill="none" stroke="#4BF991" stroke-miterlimit="10" width="16" height="175"/>
+	</g>
+	<g>
+		<rect x="320.5" y="215.5" fill="none" stroke="#4BF991" stroke-miterlimit="10" width="16" height="175"/>
+		
+			<rect x="347.907" y="208.16" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -73.1737 325.1624)" fill="none" stroke="#4BF991" stroke-miterlimit="10" width="16" height="85.495"/>
+		
+			<rect x="347.907" y="257.16" transform="matrix(0.7071 0.7071 -0.7071 0.7071 316.3295 -163.825)" fill="none" stroke="#4BF991" stroke-miterlimit="10" width="16" height="85.495"/>
+	</g>
 </g>
 </svg>
