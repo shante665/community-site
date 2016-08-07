@@ -27,11 +27,10 @@ a{
 }
 .jumbotron{
 	color: white;
-	margin-top: 25vh;
 	background-color: transparent
 }
 .jumbotron h1{
-	letter-spacing: 25px;
+	letter-spacing: 35px;
 }
 
 /* end landing */
@@ -40,11 +39,15 @@ a{
 ul.nav{
 	padding-top: 30px;
 }
-.name{
-	padding-top: 10px;
+.navbar-brand{
+	height: 110px;
 }
 .inline{
-	display: inline-block;
+	float: left
+}
+.name{
+	margin-left: 20px;
+	margin-top: 17px;
 }
 .inline p{
 	color: white
@@ -65,7 +68,7 @@ ul.nav{
     color: white;
 }
 .nav-items > li > a:active {
-    border-bottom: 1.5px solid #99DDB9;
+    border-bottom: 1.5px solid #4BF991;
 }
 .nav-items > li > a:hover {
   border-bottom: 1.5px solid white;
@@ -75,7 +78,7 @@ ul.nav{
 }
 .navbar-default{
 	background-color: transparent;
-	height: 100px;
+	height: 110px;
 	border: 0;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
