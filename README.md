@@ -11,15 +11,14 @@ Ensure your have `node >= 4` on your system.
 Start up a local server 
 <p>If you have python on your system</p>
     
-    python -m SimpleHTTPServer 8002 # python2
-    python -m http.server 8002 # python 3
+    npm run start 8002
 
 Edit this line in the `gulpfile.js` to point to the local server url setup
 
     gulp.task('browserSync', function() {
     browserSync.init(
         [paths.css + '/*.css', paths.js + '*.js', paths.templates + '/*.html'], {
-            proxy: '<local server url>',
+            proxy: '127.0.0.1: 8002',
         });
     });
 

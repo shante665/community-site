@@ -1,3 +1,8 @@
+@import "./mains";
+@import "./community-nigeria";
+@import "./material";
+
+
 .demo-card-wide > .mdl-card__title {
     color: #fff;
     height: 176px;
@@ -18,19 +23,19 @@
 .modal {
     background: rgba(28,50,63,.8);
     color: rgba(233, 214, 214, 0.9);
-}
-.modal .modal-footer {
-    border-radius: 0 0 2px 2px;
-    background: rgba(28,50,63,.8);
-    padding: 4px 6px;
-    height: 56px;
-    width: 100%;
-}
-.modal p{
-  color: rgba(233, 214, 214, 0.9);
-}
-.modal h5{
-  display: inline-block;
+    .modal-footer {
+        border-radius: 0 0 2px 2px;
+        background: rgba(28,50,63,.8);
+        padding: 4px 6px;
+        height: 56px;
+        width: 100%;
+    }
+    p{
+        color: rgba(233, 214, 214, 0.9);
+        }
+        h5{
+    display: inline-block;
+    }
 }
 .btn-flat {
     box-shadow: none;
