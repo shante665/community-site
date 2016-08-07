@@ -29,10 +29,22 @@ a{
 	color: white;
 	background-color: transparent
 }
+@media screen and (max-width: 320px){
+.jumbotron h1{
+	letter-spacing: 15px;
+}
+}
+@media screen and (min-width: 321px)
+						 and (max-width: 768px){
+.jumbotron h1{
+	letter-spacing: 25px;
+}
+}
+@media screen and (min-width: 769px){
 .jumbotron h1{
 	letter-spacing: 35px;
 }
-
+}
 /* end landing */
 
 /* navbar */
